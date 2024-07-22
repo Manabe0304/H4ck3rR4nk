@@ -17,12 +17,12 @@ int main()
 }
 
 /* 
-Sample Input 
+Sample Input:
 C
 Language
 Welcome To C!!
 
-Sample Output 
+Sample Output: 
 C
 Language
 Welcome To C!!
