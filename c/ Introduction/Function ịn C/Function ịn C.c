@@ -17,14 +17,3 @@ int max_of_four(int a, int b, int c, int d){
     else if(c >= d) return c;
     else return d;    
 }
-
-/*
-Sample Input
-3
-4
-6
-5
-
-Sample Output
-6
-*/
